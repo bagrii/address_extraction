@@ -1,2 +1,3 @@
 # address_extraction
-Extracting addresses from text
+
+Extract addresses from unstructured text.
